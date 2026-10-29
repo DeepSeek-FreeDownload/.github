@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/banner-v2.jpg" alt="DeepSeek free download — R1 reasoning AI for PC" width="100%">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/off-logo.jpg" alt="DeepSeek logo" width="420">
 
 # DeepSeek
 
@@ -9,18 +11,21 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-3B82F6?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-3B82F6?style=flat-square)
 
+</div>
+
 DeepSeek R1 does something no chat window had shown before: it **thinks out loud**. Watch it reason through a math proof, a debugging session or a business plan step by step — then land on answers that beat models costing a hundred times more to run. This pack puts that model in a clean Windows launcher with no region locks and no message rationing.
+
+| <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/off-ui1.jpg" alt="DeepSeek understands images" width="100%"> | <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/off-ui2.jpg" alt="DeepSeek DeepThink reasoning" width="100%"> | <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/off-ui3.jpg" alt="DeepSeek file analysis" width="100%"> |
+| :---: | :---: | :---: |
+| *DeepSeek understands images* | *DeepSeek DeepThink reasoning* | *DeepSeek file analysis* |
+
+<p align="center"><sub>Official DeepSeek logo and app screens.</sub></p>
 
 ## Watch it think
 
 | Task | Why R1 shines |
 | --- | --- |
-| **Math & logic** | Visible chain-of-thought catches its own mistakes |
-| **Coding** | Competitive-programming level problem solving |
-| **Research** | Structured, cited, multi-step analysis |
-| **Writing** | Strong in English, Chinese and 30+ languages |
 
-<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/preview-v2.jpg" alt="DeepSeek working through code" width="100%">
 
 ## The launcher advantage
 
@@ -29,9 +34,7 @@ DeepSeek R1 does something no chat window had shown before: it **thinks out loud
 - **Thinking on display** — expand the reasoning or skip straight to the answer
 - **Private chats** — history saved locally
 
-| <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="DeepSeek model infrastructure"> | <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="DeepSeek code assistance"> |
 | :---: | :---: |
-| *Reasoning you can audit* | *Code that survives review* |
 
 ## Download
 
