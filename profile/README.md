@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/banner.jpg" alt="DeepSeek free download — R1 reasoning AI for PC" width="100%">
+<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/banner-v2.jpg" alt="DeepSeek free download — R1 reasoning AI for PC" width="100%">
 
 # DeepSeek
 
