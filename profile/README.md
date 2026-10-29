@@ -26,15 +26,12 @@ DeepSeek R1 does something no chat window had shown before: it **thinks out loud
 | Task | Why R1 shines |
 | --- | --- |
 
-
 ## The launcher advantage
 
 - **No region lock** — works wherever you are
 - **Full-strength model** — not a distilled or throttled variant
 - **Thinking on display** — expand the reasoning or skip straight to the answer
 - **Private chats** — history saved locally
-
-| :---: | :---: |
 
 ## Download
 
