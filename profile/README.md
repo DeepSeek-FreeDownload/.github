@@ -20,7 +20,7 @@ DeepSeek R1 does something no chat window had shown before: it **thinks out loud
 | **Research** | Structured, cited, multi-step analysis |
 | **Writing** | Strong in English, Chinese and 30+ languages |
 
-<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/preview.jpg" alt="DeepSeek reasoning AI interface" width="100%">
+<img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/preview-v2.jpg" alt="DeepSeek working through code" width="100%">
 
 ## The launcher advantage
 
@@ -29,7 +29,7 @@ DeepSeek R1 does something no chat window had shown before: it **thinks out loud
 - **Thinking on display** — expand the reasoning or skip straight to the answer
 - **Private chats** — history saved locally
 
-| <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot2.jpg" alt="DeepSeek solving a hard problem"> | <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot3.jpg" alt="DeepSeek code assistance"> |
+| <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="DeepSeek model infrastructure"> | <img src="https://raw.githubusercontent.com/DeepSeek-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="DeepSeek code assistance"> |
 | :---: | :---: |
 | *Reasoning you can audit* | *Code that survives review* |
 
